@@ -1,0 +1,35 @@
+#logo {float:left;width:100px;height:100px;}
+body {background-color:#c0c0c0;}
+.menu {float:left;width:150px;height:500px;}
+div.column{float:left;width:30%;margin-left:50px ;margin-bottom: 50px;}
+.spacer{clear:both};
+#dress1{width:71%;height:71%;}
+#dress2{width:102%;height:102%;}
+#shirt1{width:102%;height:102%;}
+#shirt2{width:102%;height:102%;}
+figurecaption p {text-decoration:center ;font-style:italic;font-weight: bold;}
+h1 {text-align: left;  color:#33cc66;}
+h3 {text-align:justify;}
+fieldset.razmer{border:solid;background-color:#cc6666;}
+div.news{margin-left:230px;}
+#ime{margin-left:37px;}
+#email {margin-left:37px;}
+#phone {margin-left:10px;}
+#text {width:55%;height:100px;}
+#buton{margin-left:150px;}
+#map{margin-top:60px;}
+.dress {float:left;margin-right:50px;}
+#razmer{margin-left:176px;}
+#search {width:700px;margin-right:10px;}
+footer {text-align: center;   margin-top: 20px;}
+#dres {float:left;}
+div.column1{float:left;width:30%;}
+#like1 {width:250px;height:250px;}
+#like2 {width:250px;height:250px;}
+#like3 {width:250px;height:250px;}
+fieldset.new{border:solid;background-color: white;}
+fieldset.new p {font-style: italic;}
+#comm{width:600px;margin-left:30px;}
+div.column2{float:left;}
+#ime1{margin-left: 51px;}
+#drr display:block {margin-top: 10px;}
